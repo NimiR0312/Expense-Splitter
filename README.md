@@ -1,4 +1,4 @@
-# Expense Splitter 💸
+# Expense Splitter 
 
 A modern, real-time collaborative group expense splitting application built with **Flutter**, **Node.js**, **Express.js**, **MongoDB**, and **Socket.IO**.
 
@@ -6,7 +6,7 @@ Easily manage shared expenses with roommates, travel groups, friends, and teams.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Collaborative Groups**: Create groups or join existing groups instantly via a unique 6-character group code.
 - **Real-Time Data Synchronization**: Powered by **Socket.IO**. Any added, updated, or deleted expense or new group member syncs live across all connected devices without pulling to refresh.
@@ -25,7 +25,7 @@ Easily manage shared expenses with roommates, travel groups, friends, and teams.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend (Mobile & Cross-Platform)
 - **Framework**: [Flutter](https://flutter.dev) (Dart)
@@ -42,7 +42,7 @@ Easily manage shared expenses with roommates, travel groups, friends, and teams.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 expense_splitter/
@@ -70,7 +70,7 @@ expense_splitter/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (3.12+ recommended)
